@@ -5,7 +5,7 @@
   "description": "",
   "keywords": [],
   "dependencies": {
-    "@bull-board/express": "^3.2.4",
+    "@bull-board/express": "^5.10.2",
     "@octokit/rest": "^18.5.2",
     "@socket.io/redis-adapter": "^7.0.0",
     "@supercharge/promise-pool": "^1.5.0",
@@ -48,7 +48,7 @@
     "rc": "^1.2.8",
     "redis": "^3.0.0",
     "sequelize": "^6.3.5",
-    "socket.io": "^4.1.2",
+    "socket.io": "^4.8.0",
     "socket.io-client": "^4.1.2",
     "underscore": "^1.12.1",
     "urlsafe-base64": "^1.0.0",
